@@ -10,11 +10,10 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../TrabajoImplementacion/out/artifacts/TrabajoImplementacion_jar2" />
+          <root url="jar://$USER_HOME$/Desktop/TrabajoEnGrupo/Trabajo/TrabajoImplementacion/out/artifacts/TrabajoImplementacion_jar/TrabajoImplementacion.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/../TrabajoImplementacion/out/artifacts/TrabajoImplementacion_jar2" recursive="false" />
       </library>
     </orderEntry>
   </component>
